@@ -1,3 +1,30 @@
+https://review.udacity.com/#!/reviews/752078/shared #Nanodegree
+
+Meets Specifications
+Functionality
+The student correctly uses constraint propagation to solve the naked twins problem by enforcing the constraint that no squares outside the two naked twins squares can contain the twin values
+
+Correct!
+
+The student correctly solves the diagonal sudoku using constraint propagation by adding the new constraint of the diagonal sudoku
+
+Correct!
+
+Documentation
+Student properly comments the functionality of the code.
+
+Well mentioned comments :+1:
+
+Conceptual
+In the README.md file, the student has shown an understanding of how constraint propagation has been used to implement the naked twins function, by enforcing the constraint that no squares outside the two naked twins squares can contain the twin values
+
+You have the right understanding.
+
+In the README.md file, the student has shown an understanding of how constraint propagation has been used to solve the diagonal sudoku, by adding the diagonals to the set of constraints.
+
+You've explained this too quite well.
+
+
 # Solve Sudoku with AI
 
 ## Synopsis
